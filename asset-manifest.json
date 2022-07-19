@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.abd64e84.css",
+    "main.js": "/reactlivewebsite/static/js/main.8c42f678.js",
+    "static/js/787.28cb0dcd.chunk.js": "/reactlivewebsite/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/reactlivewebsite/index.html",
+    "main.abd64e84.css.map": "/reactlivewebsite/static/css/main.abd64e84.css.map",
+    "main.8c42f678.js.map": "/reactlivewebsite/static/js/main.8c42f678.js.map",
+    "787.28cb0dcd.chunk.js.map": "/reactlivewebsite/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.8c42f678.js"
+  ]
+}
